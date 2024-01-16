@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [An innovative business software project in the advisory and consulting sector that is improving the way companies manage their internal operations.](private)
 
-- 🌱 I’m currently learning **Automation Tools in Java , manejo de concurrencia and microservices**
+- 🌱 I’m currently learning **Automation Tools in Java , concurrency management and microservices**
 
 - 👯 I’m looking to collaborate on [Automation Tools in Java, microservices](In search of opportunities)
 
