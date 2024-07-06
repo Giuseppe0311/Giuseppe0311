@@ -2,24 +2,23 @@
 <h3 align="center">A passionate backend developer</h3>
 <h3 align="center">https://giuseppecv.vercel.app/</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giuseppe0311&label=Profile%20views&color=0e75b6&style=flat" alt="giuseppe0311" /> </p>
 
-- 🔭 I’m currently working on [An innovative business software project in the advisory and consulting sector that is improving the way companies manage their internal operations.](private)
+- 🔭 I’m currently exploring **Microservices with Java Spring, Kafka, and email delivery**
 
-- 🌱 I’m currently learning **Automation Tools in Java , concurrency management and microservices**
+- 🌱 I’m currently learning **Advanced topics in Microservices, Kafka messaging, and optimizing backend processes**
 
-- 👯 I’m looking to collaborate on [Automation Tools in Java, microservices](In search of opportunities)
+- 👯 I’m looking to collaborate on **Projects involving Microservices architecture and Kafka integration**
 
-- 🤝 I’m looking for help with **Database Optimization, concurrency management**
+- 🤝 I’m looking for help with **Database Optimization and enhancing concurrency in distributed systems**
 
-- 💬 Ask me about **API development with Spring,Best practices in Java**
+- 💬 Ask me about **API development with Spring, Best practices in Java**
 
-- 📫 How to reach me **barrerita_romero@hotmail.com**
+- 📫 How to reach me: barrerita_romero@hotmail.com
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/angel-giuseppe-barrera-romero-24b661185/](https://www.linkedin.com/in/angel-giuseppe-barrera-romero-24b661185/)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/angel-giuseppe-barrera-romero-24b661185/)
 
-- ⚡ Fun fact **I love dogs, I have a German shepherd named Akita and she is the most important thing in my life.**
+- ⚡ Fun fact: I love dogs, and I have a German shepherd named Akita who is the most important thing in my life.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
