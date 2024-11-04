@@ -1,13 +1,78 @@
-<h1 align="center">Hi 👋, I'm Giuseppe Barrera</h1> <h3 align="center">backend developer and software entrepreneur</h3> <h3 align="center"><a href="https://giuseppecv.vercel.app/">https://giuseppecv.vercel.app/</a></h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=giuseppe0311&label=Profile%20views&color=0e75b6&style=flat" alt="giuseppe0311" /> </p>
+<h1 align="center">¡Hola! 👋 Soy Giuseppe Barrera</h1>
 
-🔭 I’m currently exploring Reporting with JasperReports
+<div align="center">
+  <a href="https://giuseppecv.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/angel-giuseppe-barrera-romero-24b661185">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:barrerita_romero@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-🌱 I’m advancing my skills in Java Spring and report generation to enhance backend processes
+<h2 align="center">Desarrollador Backend & Emprendedor de Software</h2>
 
-📫 How to reach me: barrerita_romero@hotmail.com
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=giuseppe0311&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="giuseppe0311" />
+</p>
 
-📄 Know more about my experiences on LinkedIn
+### 🚀 Sobre mí
+Soy un apasionado desarrollador backend especializado en Java Spring. Me enfoco en crear soluciones robustas y escalables que impulsen el éxito de los negocios.
 
-⚡ Fun fact: I love dogs, and I have a German shepherd named Akita who means the world to me.
+### 🔭 Actualmente
+- Explorando la creación de apps mobiles
+- Explorando el lenguaje de programacion Klotin
+- Explorando generación de reportes con JasperReports
+- Perfeccionando mis habilidades en Java Spring
+- Desarrollando soluciones empresariales escalables
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/angel-giuseppe-barrera-romero-24b661185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> </p> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giuseppe0311&show_icons=true&locale=en&layout=compact" alt="giuseppe0311" /></p>
+### 💻 Stack Tecnológico
+
+<details>
+<summary>Backend</summary>
+
+- Java & Spring Framework
+- JasperReports
+- REST APIs
+- Microservicios
+</details>
+
+<details>
+<summary>Frontend</summary>
+
+- Angular
+- TypeScript
+- Tailwind
+</details>
+
+<details>
+<summary>Base de Datos</summary>
+
+- PostgreSQL
+- MySQL
+</details>
+
+<details>
+<summary>DevOps</summary>
+
+- Docker
+- Git
+</details>
+
+### 📈 Estadísticas de GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giuseppe0311&show_icons=true&locale=es&layout=compact&theme=dark" alt="Lenguajes más usados" />
+</div>
+
+### 🎯 Objetivos 2024
+- Establecer mi empresa en el mercado
+- Profundizar en arquitecturas de microservicios
+- Contribuir a proyectos open source
+
+### ⚡ Dato curioso
+Tengo una pastora alemana llamada Akita que es mi compañera incondicional en las largas sesiones de programación. 🐕
+
+### 📫 Contacto
+¿Tienes un proyecto interesante? ¡Hablemos! Puedes contactarme en [barrerita_romero@hotmail.com](mailto:barrerita_romero@hotmail.com)
