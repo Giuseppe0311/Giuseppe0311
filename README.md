@@ -19,7 +19,7 @@
 </p>
 
 ### 🚀 Sobre mí
-Desarrollador backend y emprendedor tech, desarrollando soluciones empresariales como para consumidores finales. Transformando ideas en productos innovadores a través de aplicaciones SaaS web y móviles.
+Desarrollador backend en Spring Boot y emprendedor tech, desarrollando soluciones empresariales como para consumidores finales. Transformando ideas en productos innovadores a través de aplicaciones SaaS web y móviles.
 
 ### 💡 Visión Empresarial
 Comprometido con la creación de soluciones SaaS que revolucionen la forma en que las empresas operan, combinando tecnología de punta con necesidades reales del mercado.
