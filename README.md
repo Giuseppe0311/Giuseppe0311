@@ -12,21 +12,23 @@
   </a>
 </div>
 
-<h2 align="center">Desarrollador Backend & Emprendedor de Software</h2>
+<h2 align="center">Tech Entrepreneur & Backend Developer</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=giuseppe0311&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="giuseppe0311" />
 </p>
 
 ### 🚀 Sobre mí
-Soy un apasionado desarrollador backend especializado en Java Spring. Me enfoco en crear soluciones robustas y escalables que impulsen el éxito de los negocios.
+Desarrollador backend y emprendedor tech, especializado en soluciones empresariales. Transformando ideas en productos innovadores a través de aplicaciones SaaS web y móviles.
+
+### 💡 Visión Empresarial
+Comprometido con la creación de soluciones SaaS que revolucionen la forma en que las empresas operan, combinando tecnología de punta con necesidades reales del mercado.
 
 ### 🔭 Actualmente
-- Explorando la creación de apps mobiles
-- Explorando el lenguaje de programacion Klotin
-- Explorando generación de reportes con JasperReports
-- Perfeccionando mis habilidades en Java Spring
-- Desarrollando soluciones empresariales escalables
+- Desarrollando nuestra primera solución SaaS Web
+- Expandiendo conocimientos en desarrollo móvil con Kotlin
+- Perfeccionando arquitecturas empresariales con Java Spring
+- Liderando un equipo apasionado por la innovación
 
 ### 💻 Stack Tecnológico
 
@@ -45,6 +47,13 @@ Soy un apasionado desarrollador backend especializado en Java Spring. Me enfoco 
 - Angular
 - TypeScript
 - Tailwind
+</details>
+
+<details>
+<summary>Mobile</summary>
+
+- Kotlin
+- Android Development
 </details>
 
 <details>
@@ -67,12 +76,14 @@ Soy un apasionado desarrollador backend especializado en Java Spring. Me enfoco 
 </div>
 
 ### 🎯 Objetivos 2024
-- Establecer mi empresa en el mercado
-- Profundizar en arquitecturas de microservicios
+- Lanzar nuestra primera solución SaaS al mercado
+- Expandir nuestro stack tecnológico en desarrollo móvil
+- Crear un equipo sólido y cultura de innovación
 - Contribuir a proyectos open source
 
 ### ⚡ Dato curioso
 Tengo una pastora alemana llamada Akita que es mi compañera incondicional en las largas sesiones de programación. 🐕
 
 ### 📫 Contacto
-¿Tienes un proyecto interesante? ¡Hablemos! Puedes contactarme en [barrerita_romero@hotmail.com](mailto:barrerita_romero@hotmail.com)
+¿Interesado en  conocer más sobre mi? ¡Conversemos! 
+[barrerita_romero@hotmail.com](mailto:barrerita_romero@hotmail.com)
