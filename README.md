@@ -1,10 +1,10 @@
-<h1 align="center">¡Hola! 👋 Soy Giuseppe Barrera</h1>
+<h1 align="center">Hello! 👋 I’m Giuseppe Barrera</h1>
 
 <div align="center">
-<a href="https://devgiuseppe-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-</a>
-  <a href="https://linkedin.com/in/angel-giuseppe-barrera-romero-24b661185">
+  <a href="https://devgiuseppe-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/angel-giuseppe-barrera-romero-24b661185" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:barrerita_romero@hotmail.com">
@@ -12,78 +12,74 @@
   </a>
 </div>
 
-<h2 align="center">Tech Entrepreneur & Backend Developer</h2>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=giuseppe0311&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="giuseppe0311" />
+  <img src="https://komarev.com/ghpvc/?username=giuseppe0311&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### 🚀 Sobre mí
-Desarrollador backend en Spring Boot y emprendedor tech, desarrollando soluciones empresariales como para consumidores finales. Transformando ideas en productos innovadores a través de aplicaciones SaaS web y móviles.
+## 🚀 About Me
+Backend developer specializing in Spring Boot, passionate about turning complex requirements into reliable, maintainable APIs and microservices. I thrive on solving challenges, mentoring teammates, and exploring emerging technologies.
 
-### 💡 Visión Empresarial
-Comprometido con la creación de soluciones SaaS que revolucionen la forma en que las empresas operan, combinando tecnología de punta con necesidades reales del mercado.
+## 🔭 Currently
+- Enhancing backend architectures with **Java Spring** and **Spring Boot**  
+- Building mobile apps in **Kotlin** for Android  
+- Automating CI/CD pipelines with **Docker** & **GitHub Actions**  
+- Leading tech workshops and code reviews
 
-### 🔭 Actualmente
-- Desarrollando nuestra primera solución SaaS Web
-- Expandiendo conocimientos en desarrollo móvil con Kotlin
-- Perfeccionando arquitecturas empresariales con Java Spring
-- Liderando un equipo apasionado por la innovación
-
-### 💻 Stack Tecnológico
+## 💻 Tech Stack
 
 <details>
 <summary>Backend</summary>
 
-- Java & Spring Framework
-- JasperReports
-- REST APIs
-- Microservicios
+- Java & Spring Framework  
+- RESTful APIs & Microservices  
+- JasperReports  
+- OpenAPI / Swagger  
 </details>
 
 <details>
 <summary>Frontend</summary>
 
-- Angular
-- TypeScript
-- Tailwind
+- Angular  
+- TypeScript  
+- Tailwind CSS  
 </details>
 
 <details>
 <summary>Mobile</summary>
 
-- Kotlin
-- Android Development
+- Kotlin & Android SDK  
 </details>
 
 <details>
-<summary>Base de Datos</summary>
+<summary>Databases</summary>
 
-- PostgreSQL
-- MySQL
+- PostgreSQL  
+- MySQL  
 </details>
 
 <details>
-<summary>DevOps</summary>
+<summary>DevOps & Tools</summary>
 
-- Docker
-- Git
+- Docker & Docker Compose  
+- Git & GitHub  
+- GitHub Actions  
 </details>
 
-### 📈 Estadísticas de GitHub
+## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giuseppe0311&show_icons=true&locale=es&layout=compact&theme=dark" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giuseppe0311&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
-### 🎯 Objetivos 2024
-- Lanzar nuestra primera solución SaaS al mercado
-- Expandir nuestro stack tecnológico en desarrollo móvil
-- Crear un equipo sólido y cultura de innovación
-- Contribuir a proyectos open source
+## 🎯 2025 Goals
+- Contribute to open-source projects in the Spring ecosystem  
+- Master Kotlin Multiplatform & cross-platform mobile dev  
+- Publish technical articles and tutorials  
+- Dive deeper into cloud architecture (AWS/GCP)  
+- Mentor junior developers and foster community growth
 
-### ⚡ Dato curioso
-Tengo una pastora alemana llamada Akita que es mi compañera incondicional en las largas sesiones de programación. 🐕
+## ⚡ Fun Fact
+I have a German Shepherd named Akita who keeps me company (and on my toes!) during long coding sessions. 🐕
 
-### 📫 Contacto
-¿Interesado en  conocer más sobre mi? ¡Conversemos! 
-[barrerita_romero@hotmail.com](mailto:barrerita_romero@hotmail.com)
+## 📫 Let’s Connect
+Feel free to reach out—whether it’s project ideas, collaboration or just a chat about code!  
+✉️ [barrerita_romero@hotmail.com](mailto:barrerita_romero@hotmail.com)
