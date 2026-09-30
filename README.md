@@ -10,9 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://devgiuseppe-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/angel-giuseppe-barrera-romero-24b661185">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -31,11 +28,11 @@ I care less about technology for its own sake and more about **how software impr
 ### ⚡ Experience
 
 ```text
-Mobile Banking  →  Treasury & Investments  →  Credit Systems
-        ↓                    ↓
-   Financial APIs       FIX Protocol
-        ↓                    ↓
-          Data · Cloud · Financial Infrastructure
+Treasury & Investments  →  Credit Systems  →  Mobile Banking
+          ↓                    ↓
+     FIX Protocol         Financial APIs
+          ↓                    ↓
+        Data · Cloud · Financial Infrastructure
 ```
 
 ---
