@@ -9,9 +9,6 @@
 </p>
 
 <div align="center">
-  <a href="https://devgiuseppe-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="https://linkedin.com/in/angel-giuseppe-barrera-romero-24b661185" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
