@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I enjoy building technology that solves real business problems — especially in banking, payments, financial infrastructure and fintech.
+  I enjoy building technology that solves real business problems especially in banking, payments, financial infrastructure and fintech.
 </p>
 
 <div align="center">
